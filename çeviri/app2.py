@@ -266,7 +266,7 @@ def translate():
         last_translation = out
         last_pronunciation = pron
         history.append({"input":word,"output":out,"pron":pron})
-        # Tarihçe dosyas? s?n?rs?z b?y?mesin
+        
         if len(history) > 200:
             del history[:-200]
         save_json("geçmiş.json", history)
