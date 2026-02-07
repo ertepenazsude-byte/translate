@@ -1,0 +1,345 @@
+﻿{
+    "merhaba": {
+        "tr": "merhaba",
+        "ru": "privyet",
+        "el": "geia sou",
+        "de": "hallo"
+    },
+    "nasılsın": {
+        "tr": "nasılsın",
+        "ru": "kak dela",
+        "el": "ti kanis",
+        "de": "wie geht es dir?"
+    },
+    "teşekkür ederim": {
+        "tr": "teşekkür ederim",
+        "ru": "spasibo",
+        "el": "efcharisto",
+        "de": "danke"
+    },
+    "lütfen": {
+        "tr": "lütfen",
+        "ru": "pozhaluysta",
+        "el": "parakalo",
+        "de": "bitte"
+    },
+    "özür dilerim": {
+        "tr": "özür dilerim",
+        "ru": "izvinite",
+        "el": "sygnomi",
+        "de": "es tut mir leid"
+    },
+    "hoşça kal": {
+        "tr": "hoşça kal",
+        "ru": "poka",
+        "el": "antio",
+        "de": "tschüss"
+    },
+    "evet": {
+        "tr": "evet",
+        "ru": "da",
+        "el": "nai",
+        "de": "ja"
+    },
+    "hayır": {
+        "tr": "hayır",
+        "ru": "nyet",
+        "el": "ochi",
+        "de": "nein"
+    },
+    "su": {
+        "tr": "su",
+        "ru": "voda",
+        "el": "nero",
+        "de": "wasser"
+    },
+    "bilgisayar": {
+        "tr": "bilgisayar",
+        "ru": "kompyuter",
+        "el": "ypologistis",
+        "de": "computer"
+    },
+    "telefon": {
+        "tr": "telefon",
+        "ru": "telefon",
+        "el": "tilefono",
+        "de": "telefon"
+    },
+    "internet": {
+        "tr": "internet",
+        "ru": "internet",
+        "el": "diadiktyo",
+        "de": "internet"
+    },
+    "araba": {
+        "tr": "araba",
+        "ru": "mashina",
+        "el": "aftokinito",
+        "de": "auto"
+    },
+    "uçak": {
+        "tr": "uçak",
+        "ru": "samolet",
+        "el": "aeroplano",
+        "de": "flugzeug"
+    },
+    "tren": {
+        "tr": "tren",
+        "ru": "poyezd",
+        "el": "treno",
+        "de": "zug"
+    },
+    "göz": {
+        "tr": "göz",
+        "ru": "glaz",
+        "el": "mati",
+        "de": "auge"
+    },
+    "el": {
+        "tr": "el",
+        "ru": "ruka",
+        "el": "cheri",
+        "de": "hand"
+    },
+    "baş": {
+        "tr": "baş",
+        "ru": "golova",
+        "el": "kefali",
+        "de": "kopf"
+    },
+    "kalp": {
+        "tr": "kalp",
+        "ru": "serdtse",
+        "el": "kardia",
+        "de": "herz"
+    },
+    "güneş": {
+        "tr": "güneş",
+        "ru": "solntse",
+        "el": "ilios",
+        "de": "sonne"
+    },
+    "yağmur": {
+        "tr": "yağmur",
+        "ru": "dozhd",
+        "el": "vrochi",
+        "de": "regen"
+    },
+    "kar": {
+        "tr": "kar",
+        "ru": "sneg",
+        "el": "chioni",
+        "de": "schnee"
+    },
+    "rüzgar": {
+        "tr": "rüzgar",
+        "ru": "veter",
+        "el": "anemos",
+        "de": "wind"
+    },
+    "gitmek": {
+        "tr": "gitmek",
+        "ru": "idti",
+        "el": "pigo",
+        "de": "gehen"
+    },
+    "gelmek": {
+        "tr": "gelmek",
+        "ru": "prihodit'",
+        "el": "erchomai",
+        "de": "kommen"
+    },
+    "yemek": {
+        "tr": "yemek",
+        "ru": "yest'",
+        "el": "troo",
+        "de": "essen"
+    },
+    "içmek": {
+        "tr": "içmek",
+        "ru": "pit'",
+        "el": "pino",
+        "de": "trinken"
+    },
+    "uyumak": {
+        "tr": "uyumak",
+        "ru": "spat'",
+        "el": "koimamai",
+        "de": "schlafen"
+    },
+    "kitap": {
+        "tr": "kitap",
+        "ru": "kniga",
+        "el": "vivlio",
+        "de": "buch"
+    },
+    "okul": {
+        "tr": "okul",
+        "ru": "shkola",
+        "el": "scholeio",
+        "de": "schule"
+    },
+    "iş": {
+        "tr": "iş",
+        "ru": "rabota",
+        "el": "douleia",
+        "de": "arbeit"
+    },
+    "para": {
+        "tr": "para",
+        "ru": "den'gi",
+        "el": "chrima",
+        "de": "geld"
+    },
+    "zaman": {
+        "tr": "zaman",
+        "ru": "vremya",
+        "el": "chronos",
+        "de": "zeit"
+    },
+    "yeni": {
+        "tr": "yeni",
+        "ru": "novyy",
+        "el": "neos",
+        "de": "neu"
+    },
+    "eski": {
+        "tr": "eski",
+        "ru": "staryy",
+        "el": "palios",
+        "de": "alt"
+    },
+    "hızlı": {
+        "tr": "hızlı",
+        "ru": "bystro",
+        "el": "grigora",
+        "de": "schnell"
+    },
+    "yavaş": {
+        "tr": "yavaş",
+        "ru": "medlenno",
+        "el": "arga",
+        "de": "langsam"
+    },
+    "tehlike": {
+        "tr": "tehlike",
+        "ru": "opasnost'",
+        "el": "kindynos",
+        "de": "gefahr"
+    },
+    "mutluluk": {
+        "tr": "mutluluk",
+        "ru": "schast'ye",
+        "el": "eftychia",
+        "de": "glück"
+    },
+    "deniz": {
+        "tr": "deniz",
+        "ru": "more",
+        "el": "thalassa",
+        "de": "meer"
+    },
+    "dağ": {
+        "tr": "dağ",
+        "ru": "gora",
+        "el": "vouno",
+        "de": "berg"
+    },
+   "iyi": {
+    "tr": "iyi",
+    "ru": "khorosho",
+    "el": "kala",
+    "de": "gut"
+},
+"kötü": {
+    "tr": "kötü",
+    "ru": "plokho",
+    "el": "kako",
+    "de": "schlecht"
+},
+"büyük": {
+    "tr": "büyük",
+    "ru": "bolshoy",
+    "el": "megalo",
+    "de": "groß"
+},
+"küçük": {
+    "tr": "küçük",
+    "ru": "malenkiy",
+    "el": "mikro",
+    "de": "klein"
+},
+"bugün": {
+    "tr": "bugün",
+    "ru": "segodnya",
+    "el": "simera",
+    "de": "heute"
+},
+"yarın": {
+    "tr": "yarın",
+    "ru": "zavtra",
+    "el": "avrio",
+    "de": "morgen"
+},
+"dün": {
+    "tr": "dün",
+    "ru": "vchera",
+    "el": "chthes",
+    "de": "gestern"
+},
+"neden": {
+    "tr": "neden",
+    "ru": "pochemu",
+    "el": "giati",
+    "de": "warum"
+},
+"nasıl": {
+    "tr": "nasıl",
+    "ru": "kak",
+    "el": "pos",
+    "de": "wie"
+},
+"nerede": {
+    "tr": "nerede",
+    "ru": "gde",
+    "el": "pou",
+    "de": "wo"
+},
+"istemek": {
+    "tr": "istemek",
+    "ru": "khotet",
+    "el": "thelo",
+    "de": "wollen"
+},
+"bilmek": {
+    "tr": "bilmek",
+    "ru": "znat",
+    "el": "ksero",
+    "de": "wissen"
+},
+"yapmak": {
+    "tr": "yapmak",
+    "ru": "delat",
+    "el": "kano",
+    "de": "machen"
+},
+"söylemek": {
+    "tr": "söylemek",
+    "ru": "skazat",
+    "el": "leo",
+    "de": "sagen"
+},
+"görmek": {
+    "tr": "görmek",
+    "ru": "videt",
+    "el": "vlepo",
+    "de": "sehen"
+},
+"duymak": {
+    "tr": "duymak",
+    "ru": "slyshat",
+    "el": "akouo",
+    "de": "hören"
+}
+
+}
