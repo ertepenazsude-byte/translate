@@ -1,489 +1,628 @@
-﻿
-{
+﻿{
   "almak": {
     "de": "nehmen / kaufen",
-    "el": "παίρνω / αγοράζω",
-    "ru": "взять / купить",
+    "el": "perno / agorazo",
+    "ru": "vzyat' / kupit'",
     "tr": "almak"
   },
   "ama": {
     "de": "aber",
-    "el": "αλλά",
-    "ru": "но",
+    "el": "alla",
+    "ru": "no",
     "tr": "ama"
   },
   "araba": {
     "de": "Auto",
-    "el": "αυτοκίνητο",
-    "ru": "машина",
+    "el": "aftokinito",
+    "ru": "mashina",
     "tr": "araba"
   },
   "baş": {
     "de": "Kopf",
-    "el": "κεφάλι",
-    "ru": "голова",
+    "el": "kefali",
+    "ru": "golova",
     "tr": "baş"
   },
   "ben": {
     "de": "ich",
-    "el": "εγώ",
-    "ru": "я",
+    "el": "ego",
+    "ru": "ya",
     "tr": "ben"
   },
   "beş": {
     "de": "fünf",
-    "el": "πέντε",
-    "ru": "пять",
+    "el": "pente",
+    "ru": "pyat",
     "tr": "beş"
   },
   "bilgisayar": {
     "de": "Computer",
-    "el": "υπολογιστής",
-    "ru": "компьютер",
+    "el": "ipologistis",
+    "ru": "kompyuter",
     "tr": "bilgisayar"
   },
   "bilmek": {
     "de": "wissen",
-    "el": "ξέρω",
-    "ru": "знать",
+    "el": "ksero",
+    "ru": "znat'",
     "tr": "bilmek"
   },
   "bir": {
     "de": "eins",
-    "el": "ένα",
-    "ru": "один",
+    "el": "ena",
+    "ru": "odin",
     "tr": "bir"
   },
   "biz": {
     "de": "wir",
-    "el": "εμείς",
-    "ru": "мы",
+    "el": "emeis",
+    "ru": "my",
     "tr": "biz"
   },
   "bugün": {
     "de": "heute",
-    "el": "σήμερα",
-    "ru": "сегодня",
+    "el": "simera",
+    "ru": "segodnya",
     "tr": "bugün"
   },
   "büyük": {
-    "de": "groß",
-    "el": "μεγάλο",
-    "ru": "большой",
+    "de": "gross",
+    "el": "megalo",
+    "ru": "bolshoy",
     "tr": "büyük"
   },
   "çünkü": {
     "de": "weil",
-    "el": "επειδή",
-    "ru": "потому что",
+    "el": "epeidi",
+    "ru": "potomu chto",
     "tr": "çünkü"
   },
   "dağ": {
     "de": "Berg",
-    "el": "βουνό",
-    "ru": "гора",
+    "el": "vouno",
+    "ru": "gora",
     "tr": "dağ"
   },
   "deniz": {
     "de": "Meer",
-    "el": "θάλασσα",
-    "ru": "море",
+    "el": "thalassa",
+    "ru": "more",
     "tr": "deniz"
   },
   "dört": {
     "de": "vier",
-    "el": "τέσσερα",
-    "ru": "четыре",
+    "el": "tessera",
+    "ru": "chetyre",
     "tr": "dört"
   },
   "duymak": {
     "de": "hören",
-    "el": "ακούω",
-    "ru": "слышать",
+    "el": "akouo",
+    "ru": "slyshat'",
     "tr": "duymak"
   },
   "dün": {
     "de": "gestern",
-    "el": "χθες",
-    "ru": "вчера",
+    "el": "chthes",
+    "ru": "vchera",
     "tr": "dün"
   },
   "el": {
     "de": "Hand",
-    "el": "χέρι",
-    "ru": "рука",
+    "el": "cheri",
+    "ru": "ruka",
     "tr": "el"
   },
   "eski": {
     "de": "alt",
-    "el": "παλιός",
-    "ru": "старый",
+    "el": "palios",
+    "ru": "stariiy",
     "tr": "eski"
   },
   "evet": {
     "de": "ja",
-    "el": "ναι",
-    "ru": "да",
+    "el": "nai",
+    "ru": "da",
     "tr": "evet"
   },
   "gelmek": {
     "de": "kommen",
-    "el": "έρχομαι",
-    "ru": "приходить",
+    "el": "erchomai",
+    "ru": "prikhodit'",
     "tr": "gelmek"
   },
   "gitmek": {
     "de": "gehen",
-    "el": "πηγαίνω",
-    "ru": "идти",
+    "el": "pigaino",
+    "ru": "idti",
     "tr": "gitmek"
   },
   "görmek": {
     "de": "sehen",
-    "el": "βλέπω",
-    "ru": "видеть",
+    "el": "vlepo",
+    "ru": "videt'",
     "tr": "görmek"
   },
   "göz": {
     "de": "Auge",
-    "el": "μάτι",
-    "ru": "глаз",
+    "el": "mati",
+    "ru": "glaz",
     "tr": "göz"
   },
   "güneş": {
     "de": "Sonne",
-    "el": "ήλιος",
-    "ru": "солнце",
+    "el": "ilios",
+    "ru": "solntse",
     "tr": "güneş"
   },
   "hayır": {
     "de": "nein",
-    "el": "όχι",
-    "ru": "нет",
+    "el": "ochi",
+    "ru": "nyet",
     "tr": "hayır"
   },
   "hızlı": {
     "de": "schnell",
-    "el": "γρήγορα",
-    "ru": "быстро",
+    "el": "grigora",
+    "ru": "bystro",
     "tr": "hızlı"
   },
   "hoşça kal": {
     "de": "Tschüss",
-    "el": "αντίο",
-    "ru": "пока",
+    "el": "antio",
+    "ru": "poka",
     "tr": "hoşça kal"
   },
   "içmek": {
     "de": "trinken",
-    "el": "πίνω",
-    "ru": "пить",
+    "el": "pino",
+    "ru": "pit'",
     "tr": "içmek"
   },
   "iki": {
     "de": "zwei",
-    "el": "δύο",
-    "ru": "два",
+    "el": "dyo",
+    "ru": "dva",
     "tr": "iki"
   },
   "internet": {
     "de": "Internet",
-    "el": "διαδίκτυο",
-    "ru": "интернет",
+    "el": "diadiktyo",
+    "ru": "internet",
     "tr": "internet"
   },
   "istemek": {
     "de": "wollen",
-    "el": "θέλω",
-    "ru": "хотеть",
+    "el": "thelo",
+    "ru": "khotet'",
     "tr": "istemek"
   },
   "iş": {
     "de": "Arbeit",
-    "el": "δουλειά",
-    "ru": "работа",
+    "el": "douleia",
+    "ru": "rabota",
     "tr": "iş"
   },
   "iyi": {
     "de": "gut",
-    "el": "καλά",
-    "ru": "хорошо",
+    "el": "kala",
+    "ru": "khorosho",
     "tr": "iyi"
   },
   "kaç": {
-    "de": "wie viel / wie viele",
-    "el": "πόσο / πόσα",
-    "ru": "сколько",
+    "de": "wie viel",
+    "el": "poso",
+    "ru": "skol'ko",
     "tr": "kaç"
   },
   "kalp": {
     "de": "Herz",
-    "el": "καρδιά",
-    "ru": "сердце",
+    "el": "kardia",
+    "ru": "serdtse",
     "tr": "kalp"
   },
   "kar": {
     "de": "Schnee",
-    "el": "χιόνι",
-    "ru": "снег",
+    "el": "chioni",
+    "ru": "sneg",
     "tr": "kar"
   },
   "kim": {
     "de": "wer",
-    "el": "ποιος",
-    "ru": "кто",
+    "el": "poios",
+    "ru": "kto",
     "tr": "kim"
   },
   "kitap": {
     "de": "Buch",
-    "el": "βιβλίο",
-    "ru": "книга",
+    "el": "vivlio",
+    "ru": "kniga",
     "tr": "kitap"
   },
   "kötü": {
     "de": "schlecht",
-    "el": "κακό",
-    "ru": "плохо",
+    "el": "kako",
+    "ru": "plokho",
     "tr": "kötü"
   },
   "küçük": {
     "de": "klein",
-    "el": "μικρό",
-    "ru": "маленький",
+    "el": "mikro",
+    "ru": "malen'kiy",
     "tr": "küçük"
   },
   "lütfen": {
     "de": "bitte",
-    "el": "παρακαλώ",
-    "ru": "пожалуйста",
+    "el": "parakalo",
+    "ru": "pozhaluysta",
     "tr": "lütfen"
   },
   "merhaba": {
-    "de": "Hallo",
-    "el": "γεια σου",
-    "ru": "привет",
+    "de": "hallo",
+    "el": "geia sou",
+    "ru": "privyet",
     "tr": "merhaba"
   },
   "mutluluk": {
     "de": "Glück",
-    "el": "ευτυχία",
-    "ru": "счастье",
+    "el": "eftychia",
+    "ru": "schast'ye",
     "tr": "mutluluk"
   },
   "nasıl": {
     "de": "wie",
-    "el": "πώς",
-    "ru": "как",
+    "el": "pos",
+    "ru": "kak",
     "tr": "nasıl"
   },
   "nasılsın": {
-    "de": "Wie geht es dir?",
-    "el": "τι κάνεις",
-    "ru": "как дела",
+    "de": "wie geht es dir?",
+    "el": "ti kaneis",
+    "ru": "kak dela",
     "tr": "nasılsın"
   },
   "ne": {
     "de": "was",
-    "el": "τι",
-    "ru": "что",
+    "el": "ti",
+    "ru": "chto",
     "tr": "ne"
   },
   "neden": {
     "de": "warum",
-    "el": "γιατί",
-    "ru": "почему",
+    "el": "giati",
+    "ru": "pochemu",
     "tr": "neden"
   },
   "nerede": {
     "de": "wo",
-    "el": "πού",
-    "ru": "где",
+    "el": "pou",
+    "ru": "gde",
     "tr": "nerede"
   },
   "o": {
-    "de": "er/sie/es",
-    "el": "αυτός/αυτή/αυτό",
-    "ru": "он/она/оно",
+    "de": "er / sie / es",
+    "el": "aftos / afti / afto",
+    "ru": "on / ona / ono",
     "tr": "o"
   },
   "okul": {
     "de": "Schule",
-    "el": "σχολείο",
-    "ru": "школа",
+    "el": "scholeio",
+    "ru": "shkola",
     "tr": "okul"
   },
   "olmak": {
     "de": "sein / werden",
-    "el": "γίνομαι",
-    "ru": "быть",
+    "el": "ginomai",
+    "ru": "byt'",
     "tr": "olmak"
   },
   "onlar": {
     "de": "sie",
-    "el": "αυτοί",
-    "ru": "они",
+    "el": "aftoi",
+    "ru": "oni",
     "tr": "onlar"
   },
   "özür dilerim": {
     "de": "es tut mir leid",
-    "el": "συγγνώμη",
-    "ru": "извините",
+    "el": "sygnomi",
+    "ru": "izvinite",
     "tr": "özür dilerim"
   },
   "para": {
     "de": "Geld",
-    "el": "χρήμα",
-    "ru": "деньги",
+    "el": "chrima",
+    "ru": "den'gi",
     "tr": "para"
   },
   "rüzgar": {
     "de": "Wind",
-    "el": "άνεμος",
-    "ru": "ветер",
+    "el": "anemos",
+    "ru": "veter",
     "tr": "rüzgar"
   },
   "sen": {
     "de": "du",
-    "el": "εσύ",
-    "ru": "ты",
+    "el": "esy",
+    "ru": "ty",
     "tr": "sen"
   },
   "sevmek": {
     "de": "lieben",
-    "el": "αγαπώ",
-    "ru": "любить",
+    "el": "agapo",
+    "ru": "lyubit'",
     "tr": "sevmek"
   },
   "siz": {
     "de": "ihr / Sie",
-    "el": "εσείς",
-    "ru": "вы",
+    "el": "eseis",
+    "ru": "vy",
     "tr": "siz"
   },
   "sonra": {
     "de": "danach / später",
-    "el": "μετά",
-    "ru": "потом",
+    "el": "meta",
+    "ru": "potom",
     "tr": "sonra"
   },
   "söylemek": {
     "de": "sagen",
-    "el": "λέω",
-    "ru": "сказать",
+    "el": "leo",
+    "ru": "skazat'",
     "tr": "söylemek"
   },
   "su": {
     "de": "Wasser",
-    "el": "νερό",
-    "ru": "вода",
+    "el": "nero",
+    "ru": "voda",
     "tr": "su"
   },
   "şimdi": {
     "de": "jetzt",
-    "el": "τώρα",
-    "ru": "сейчас",
+    "el": "tora",
+    "ru": "seychas",
     "tr": "şimdi"
   },
   "tehlike": {
     "de": "Gefahr",
-    "el": "κίνδυνος",
-    "ru": "опасность",
+    "el": "kindynos",
+    "ru": "opasnost'",
     "tr": "tehlike"
   },
   "telefon": {
     "de": "Telefon",
-    "el": "τηλέφωνο",
-    "ru": "телефон",
+    "el": "tilefono",
+    "ru": "telefon",
     "tr": "telefon"
   },
   "teşekkür ederim": {
     "de": "danke",
-    "el": "ευχαριστώ",
-    "ru": "спасибо",
+    "el": "efcharisto",
+    "ru": "spasibo",
     "tr": "teşekkür ederim"
   },
   "tren": {
     "de": "Zug",
-    "el": "τρένο",
-    "ru": "поезд",
+    "el": "treno",
+    "ru": "poyezd",
     "tr": "tren"
   },
   "uçak": {
     "de": "Flugzeug",
-    "el": "αεροπλάνο",
-    "ru": "самолёт",
+    "el": "aeroplano",
+    "ru": "samolet",
     "tr": "uçak"
   },
   "uyumak": {
     "de": "schlafen",
-    "el": "κοιμάμαι",
-    "ru": "спать",
+    "el": "koimamai",
+    "ru": "spat'",
     "tr": "uyumak"
   },
   "üç": {
     "de": "drei",
-    "el": "τρία",
-    "ru": "три",
+    "el": "tria",
+    "ru": "tri",
     "tr": "üç"
   },
   "ve": {
     "de": "und",
-    "el": "και",
-    "ru": "и",
+    "el": "kai",
+    "ru": "i",
     "tr": "ve"
   },
   "vermek": {
     "de": "geben",
-    "el": "δίνω",
-    "ru": "давать",
+    "el": "dino",
+    "ru": "davat'",
     "tr": "vermek"
   },
   "veya": {
     "de": "oder",
-    "el": "ή",
-    "ru": "или",
+    "el": "i",
+    "ru": "ili",
     "tr": "veya"
   },
   "yağmur": {
     "de": "Regen",
-    "el": "βροχή",
-    "ru": "дождь",
+    "el": "vrochi",
+    "ru": "dozhd",
     "tr": "yağmur"
   },
   "yapmak": {
     "de": "machen",
-    "el": "κάνω",
-    "ru": "делать",
+    "el": "kano",
+    "ru": "delat'",
     "tr": "yapmak"
   },
   "yarın": {
     "de": "morgen",
-    "el": "αύριο",
-    "ru": "завтра",
+    "el": "avrio",
+    "ru": "zavtra",
     "tr": "yarın"
   },
   "yavaş": {
     "de": "langsam",
-    "el": "αργά",
-    "ru": "медленно",
+    "el": "arga",
+    "ru": "medlenno",
     "tr": "yavaş"
   },
   "yemek": {
     "de": "essen",
-    "el": "τρώω",
-    "ru": "есть",
+    "el": "troo",
+    "ru": "yest'",
     "tr": "yemek"
   },
   "yeni": {
     "de": "neu",
-    "el": "νέος",
-    "ru": "новый",
+    "el": "neos",
+    "ru": "noviy",
     "tr": "yeni"
   },
   "zaman": {
     "de": "Zeit",
-    "el": "χρόνος",
-    "ru": "время",
+    "el": "chronos",
+    "ru": "vremya",
     "tr": "zaman"
+  },
+  "var": {
+    "tr": "var",
+    "ru": "est'",
+    "el": "yparchei",
+    "de": "es gibt"
+  },
+  "yok": {
+    "tr": "yok",
+    "ru": "net",
+    "el": "den yparchei",
+    "de": "es gibt kein / nicht"
+  },
+  "yapıyor": {
+    "tr": "yapıyor",
+    "ru": "delayet",
+    "el": "kanei",
+    "de": "macht"
+  },
+  "gidiyor": {
+    "tr": "gidiyor",
+    "ru": "idet",
+    "el": "paei",
+    "de": "geht"
+  },
+  "geldi": {
+    "tr": "geldi",
+    "ru": "prishel",
+    "el": "irthe",
+    "ru_alt": "prishol",
+    "de": "kam"
+  },
+  "gitti": {
+    "tr": "gitti",
+    "ru": "ushel",
+    "el": "efyge",
+    "de": "ging"
+  },
+  "yapacak": {
+    "tr": "yapacak",
+    "ru": "sdelayet",
+    "el": "tha kanei",
+    "de": "wird machen"
+  },
+  "gidecek": {
+    "tr": "gidecek",
+    "ru": "poydet",
+    "el": "tha paei",
+    "de": "wird gehen"
+  },
+  "istiyorum": {
+    "tr": "istiyorum",
+    "ru": "khochu",
+    "el": "thelo",
+    "de": "ich will"
+  },
+  "istemiyorum": {
+    "tr": "istemiyorum",
+    "ru": "ne khochu",
+    "el": "den thelo",
+    "de": "ich will nicht"
+  },
+  "yapabilirim": {
+    "tr": "yapabilirim",
+    "ru": "ya mogu",
+    "el": "boro",
+    "de": "ich kann"
+  },
+  "yapamam": {
+    "tr": "yapamam",
+    "ru": "ne mogu",
+    "el": "den boro",
+    "de": "ich kann nicht"
+  },
+  "zorunda": {
+    "tr": "zorunda",
+    "ru": "dolzhen",
+    "el": "prepei",
+    "de": "muss"
+  },
+  "lazım": {
+    "tr": "lazım",
+    "ru": "nuzhno",
+    "el": "chreiazetai",
+    "de": "nötig"
+  },
+  "mümkün": {
+    "tr": "mümkün",
+    "ru": "vozmozhno",
+    "el": "dynaton",
+    "de": "möglich"
+  },
+  "değil": {
+    "tr": "değil",
+    "ru": "ne",
+    "el": "den",
+    "de": "nicht"
+  },
+  "çok": {
+    "tr": "çok",
+    "ru": "ochen'",
+    "el": "poly",
+    "de": "sehr"
+  },
+  "az": {
+    "tr": "az",
+    "ru": "malo",
+    "el": "ligo",
+    "de": "wenig"
+  },
+  "git": {
+    "tr": "git",
+    "ru": "idi",
+    "el": "pigaine",
+    "de": "geh"
+  },
+  "gel": {
+    "tr": "gel",
+    "ru": "idi syuda",
+    "el": "ela",
+    "de": "komm"
+  },
+  "yap": {
+    "tr": "yap",
+    "ru": "delay",
+    "el": "kane",
+    "de": "mach"
+  },
+  "ver": {
+    "tr": "ver",
+    "ru": "day",
+    "el": "dose",
+    "ru_alt": "day",
+    "de": "gib"
+  },
+  "al": {
+    "tr": "al",
+    "ru": "voz'mi",
+    "el": "pare",
+    "de": "nimm"
   }
 }
